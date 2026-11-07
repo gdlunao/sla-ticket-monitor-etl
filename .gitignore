@@ -1,0 +1,17 @@
+# Variables de entorno y secretos
+.env
+credentials.json
+
+# Artefactos del Pipeline ETL
+artifacts/
+
+# Entornos virtuales y caché de Python
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs
+.vscode/
+.idea/
